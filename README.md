@@ -8,5 +8,7 @@ This project aims to analyze how happy people across different countries and if 
 [Data](https://happiness-report.s3.amazonaws.com/2024/DataForTable2.1.xls)
 
 ## Process
+Explored the data and read the supplementary data reports to better understand the data. Replaced most of the nulls with mean and median values.
+
 
 ## Results
